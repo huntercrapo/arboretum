@@ -1,0 +1,54 @@
+.App {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+}
+@font-face {
+    font-family: Chimpsdale;
+    src: url('../fonts/Chimpsdale.otf');
+}
+.dealBtn {
+    display: block;
+    
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    background-color: purple;
+    color: white;
+    font-family: Chimpsdale;
+    transition: all 0.3s ease 0s;
+}
+.dealBtn:hover {
+    color: purple;
+    background-color: white;
+    border: 1px solid purple;
+    transition: all 0.1s ease 0s;
+}
+.dealBtn:active {
+    background-color: purple;
+    color: white;
+    transition: all 0s ease 0s;
+}
+.cards {
+    transform: scale(0.1);
+}
+.buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    position: absolute;
+    bottom: 270px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+#shuffle {
+    visibility: hidden;
+}
+#counter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+}
