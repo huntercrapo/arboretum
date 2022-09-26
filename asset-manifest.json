@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arboretum/static/css/main.b0075edb.css",
-    "main.js": "/arboretum/static/js/main.10d24c97.js",
+    "main.css": "/arboretum/static/css/main.a5ce214d.css",
+    "main.js": "/arboretum/static/js/main.63ed5cf0.js",
     "static/js/787.ccb1aaf1.chunk.js": "/arboretum/static/js/787.ccb1aaf1.chunk.js",
     "static/media/Chimpsdale.otf": "/arboretum/static/media/Chimpsdale.83dd6a15a15283fa2188.otf",
     "static/media/Blue Spruce.svg": "/arboretum/static/media/Blue Spruce.68cb4be0d7a6817cedd4c73d60d9a0ae.svg",
@@ -15,12 +15,12 @@
     "static/media/Dogwood.svg": "/arboretum/static/media/Dogwood.6967306a2863ebfe9aba107cdda49e4f.svg",
     "static/media/Cassia.svg": "/arboretum/static/media/Cassia.e0466cb44835e411ed9b66375970f434.svg",
     "index.html": "/arboretum/index.html",
-    "main.b0075edb.css.map": "/arboretum/static/css/main.b0075edb.css.map",
-    "main.10d24c97.js.map": "/arboretum/static/js/main.10d24c97.js.map",
+    "main.a5ce214d.css.map": "/arboretum/static/css/main.a5ce214d.css.map",
+    "main.63ed5cf0.js.map": "/arboretum/static/js/main.63ed5cf0.js.map",
     "787.ccb1aaf1.chunk.js.map": "/arboretum/static/js/787.ccb1aaf1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0075edb.css",
-    "static/js/main.10d24c97.js"
+    "static/css/main.a5ce214d.css",
+    "static/js/main.63ed5cf0.js"
   ]
 }
